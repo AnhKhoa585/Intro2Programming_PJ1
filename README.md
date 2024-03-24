@@ -5,5 +5,7 @@
 ## Introduction
 Here is my source code for creating a Caro game using a simple C++ program and the minimax algorithm.
 
+The project should be run in Visual Studio.
+
 ## Demo
 Demo video: [click here](https://www.youtube.com/watch?v=F25bijLPvI4)
