@@ -1,5 +1,5 @@
 <p align="center">
- <h1 align="center">Intro2Programming - FIT.HCMUS - Project</h1>
+ <h1 align="center">Intro2Programming_Project - FIT.HCMUS</h1>
 </p>
 
 ## Introduction
